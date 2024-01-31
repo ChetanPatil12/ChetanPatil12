@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi I'm Chetan Patil<br>🌱 I’m currently learning Fast API<br>💬 Ask me about Front-end dev<br>⚡ Fun fact
+👋 Hi I'm Chetan Patil<br>🌱 I’m currently learning Fast API<br>💬 Ask me about Front-end dev<br>
 
 
 ## 🌐 Socials:
