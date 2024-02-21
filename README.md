@@ -49,12 +49,8 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  />
-
-###
-
-<div align="left">
-  <img height="130" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif"  />
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"  />
 </div>
 
 ###
