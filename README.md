@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 **About Me:**<br>- 👨‍💻 Currently exploring the exciting world of backend development.<br>- 🌐 Continuously learning and adapting to new technologies and tools.<br>- 💡 Enthusiastic about creating seamless user experiences and solving real-world problems.</p>
+<p align="left">🚀 **About Me:**<br>- 👨‍💻 Currently exploring the exciting world of backend development and AI.<br>- 🌐 Continuously learning and adapting to new technologies and tools.<br>- 💡 Enthusiastic about creating seamless user experiences and solving real-world problems.</p>
 
 ###
 
